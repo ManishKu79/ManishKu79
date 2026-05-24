@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,50:1B1F3B,100:00C2FF&text=Manish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,50:1B1F3B,100:00C2FF&text=Manish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+Developer"/>
 
 </div>
 
@@ -91,6 +91,28 @@ const manish = {
 
 <td width="50%">
 
+## 🎓 Preparation Platform
+
+Comprehensive online exam preparation platform for students.
+
+### ⚡ Features
+
+- Practice Questions & Mock Tests
+- Real-time Progress Tracking
+- Subject-wise Tests
+- Performance Analytics
+- Responsive Design
+
+### 🛠️ Tech Stack
+
+React • Node.js • Express • MongoDB
+
+**[View Repository](https://github.com/ManishKu79/prepration_Platform)**
+
+</td>
+
+<td width="50%">
+
 ## 🔥 Smart Portfolio Builder
 
 AI-powered portfolio builder with modern UI.
@@ -109,6 +131,10 @@ React • Node.js • Express • MongoDB
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ## 🛒 Shopping Cart Application
@@ -126,6 +152,10 @@ Full-stack eCommerce shopping platform.
 ### 🛠️ Tech Stack
 
 MERN Stack • JWT • MongoDB
+
+</td>
+
+<td width="50%">
 
 </td>
 
