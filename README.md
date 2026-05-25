@@ -1,296 +1,94 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h3 align="center">A passionate Full-Stack Developer from India, building the MERN stack & AI-powered applications.</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,50:1B1F3B,100:00C2FF&text=Manish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+Developer"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/216656967-d84fd5a1-80e9-4d6d-b4c8-2b8b8c7f5c5b.gif" width="100%" />
+I'm a dedicated developer focused on creating seamless digital experiences with modern web technologies. Currently, I'm diving deep into System Design and Backend Architecture to build more robust applications.
 
-</div>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```javascript
-const manish = {
-    location: "India",
-    role: "Frontend & MERN Stack Developer",
-    
-    currentFocus: "Building Modern Web Applications",
-
-    learning: [
-        "Advanced MERN Stack",
-        "System Design",
-        "Backend Architecture"
-    ],
-
-    frontend: [
-        "React.js",
-        "Next.js",
-        "JavaScript",
-        "TypeScript",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
-
-    database: [
-        "MongoDB",
-        "MySQL",
-        "PostgreSQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Docker",
-        "AWS",
-        "VS Code",
-        "Postman"
-    ]
-};
-```
-
-<br clear="both"/>
+- 🔭 I’m currently working on: **Advanced MERN Stack Applications**
+- 🌱 I’m currently learning: **System Design, Backend Architecture**
+- 💬 Ask me about: **React, Node.js, MongoDB, JavaScript**
+- 📫 How to reach me: **manishkumar342670@gmail.com**
+- ⚡ Fun fact: I love solving complex problems with clean code.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ My Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,docker,aws,git,github,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎓 Preparation Platform
-
-Comprehensive online exam preparation platform for students.
-
-### ⚡ Features
-
-- Practice Questions & Mock Tests
-- Real-time Progress Tracking
-- Subject-wise Tests
-- Performance Analytics
-- Responsive Design
-
-### 🛠️ Tech Stack
-
-React • Node.js • Express • MongoDB
-
-**[View Repository](https://github.com/ManishKu79/prepration_Platform)**
-
-</td>
-
-<td width="50%">
-
-## 🔥 Smart Portfolio Builder
-
-AI-powered portfolio builder with modern UI.
-
-### ⚡ Features
-
-- Modern Responsive UI
-- Authentication System
-- Dynamic Portfolio Templates
-- Animated Components
-- Backend Integration
-
-### 🛠️ Tech Stack
-
-React • Node.js • Express • MongoDB
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🛒 Shopping Cart Application
-
-Full-stack eCommerce shopping platform.
-
-### ⚡ Features
-
-- Secure Authentication
-- Cart Management
-- Product Filtering
-- REST APIs
-- Responsive Design
-
-### 🛠️ Tech Stack
-
-MERN Stack • JWT • MongoDB
-
-</td>
-
-<td width="50%">
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,postgres,tailwind,html,css,git,docker,aws,vscode,postman&perline=9" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🌟 Featured Projects
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManishKu79&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishKu79&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKu79&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
-
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎓 PrepAI - AI Interview Platform** | An AI-powered platform for placement preparation, featuring mock interviews, resume analysis, and coding practice. | `React` `Node.js` `Express` `MongoDB` `OpenAI API` `Tailwind` |
+| **🔥 Smart Portfolio Builder** | An intelligent portfolio builder with dynamic templates, authentication, and a modern, animated UI. | `React` `Node.js` `Express` `MongoDB` `Framer Motion` |
+| **🛒 MERN E-Commerce Cart** | A full-stack shopping cart application with secure authentication, product filtering, and REST APIs. | `MERN Stack` `JWT` `MongoDB` `Express` `React` |
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishKu79&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKu79&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+</p>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKu79&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ManishKu79&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishKu79&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<a href="mailto:manishkumar79707334@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ManishKu79">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishKu79&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
 
 ---
 
-# ⚡ Current Goals
+## 🌐 Connect With Me
 
-<div align="center">
-
-🚀 Become a Professional Full Stack Developer
-
-🌟 Contribute to Open Source
-
-💡 Build Scalable SaaS Applications
-
-🔥 Master Backend Architecture
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-url" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-instagram-handle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-# 👀 Profile Views
+## 🎯 Current Goals for 2026
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ManishKu79&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💻 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+- 🚀 Become a Professional Full-Stack Developer
+- 🌟 Contribute Meaningfully to Open Source
+- 💡 Build Scalable SaaS Applications
+- 🔥 Master Advanced Backend Architecture
 
 ---
 
-# 🎵 Spotify Playing
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManishKu79&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💖 Thanks For Visiting My Profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B1026,50:1B1F3B,100:00C2FF"/>
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
