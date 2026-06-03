@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Manish Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Developer;AI+Integration+Builder;Open+Source+Learner;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Developer;AI+Integration+Expert" />
 
 <br/>
 
@@ -61,7 +61,7 @@ const manish = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,postgres,tailwind,html,css,git,github,docker,aws,vscode,postman,figma,vercel,redux,firebase,python,c,cpp,java&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,postgres,tailwind,html,css,git,github,docker,aws,vscode,postman,figma,vercel,redux,firebase,python,c,cpp,java" />
 
 </div>
 
@@ -71,7 +71,7 @@ const manish = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=750&lines=AI-Powered+Interview+Preparation+Platform;Mock+Interviews+%7C+Resume+Analysis+%7C+Coding+Practice;Built+with+MERN+Stack+%2B+OpenAI+API" alt="Project Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=750&lines=AI-Powered+Interview+Preparation+Platform" />
 
 </div>
 
@@ -226,6 +226,35 @@ MERN Stack • OpenAI API • JWT Auth
 
 ---
 
+# 📝 Contributions & Open Source
+
+I'm passionate about contributing to open-source projects and helping the developer community. Here's how you can find my work:
+
+## 🤝 My Contributions
+
+- **Active contributor** to various MERN stack projects
+- **AI Integration**: Implementing AI solutions in web applications
+- **DSA & Algorithms**: Sharing coding interview preparation resources
+- **Open Source**: Contributing to community-driven projects
+
+## 💡 How to Collaborate
+
+- 🔗 Found a bug in my repo? [Open an issue](https://github.com/ManishKu79?tab=repositories)
+- 🎯 Have a feature idea? [Create a discussion](https://github.com/ManishKu79)
+- 🚀 Want to contribute? Check repositories marked with **"contributions-welcome"**
+- 📚 Want to learn from my projects? Feel free to fork and star ⭐
+
+## 📦 Contribution Areas
+
+| Area | Status | Repository |
+|------|--------|-----------|
+| 🤖 AI Integration | Active | [PrepAI](https://github.com/ManishKu79/prepration_Platform) |
+| 💼 Portfolio Builder | Maintained | [Smart-Portfolio-and-Resume-builder](https://github.com/ManishKu79/Smart-Portfolio-and-Resume-builder) |
+| 🎓 DSA Problems | Growing | Various coding challenges |
+| 🌐 Full Stack Apps | Active | Multiple MERN projects |
+
+---
+
 # 🎯 Current Goals
 
 <div align="center">
@@ -282,19 +311,19 @@ MERN Stack • OpenAI API • JWT Auth
 
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/manishkumar">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
 
-<a href="https://instagram.com">
+<a href="https://instagram.com/manishku79">
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 </a>
 
-<a href="https://twitter.com">
+<a href="https://twitter.com/manishku79">
 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 
