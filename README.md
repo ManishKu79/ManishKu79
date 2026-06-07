@@ -33,7 +33,7 @@
 - MERN Stack Projects
 
 📫 Reach Me:
-- Email: your-email@gmail.com
+- Email: manishkumar79707334@gmail.com
 
 ⚡ Fun Fact:
 > I love turning ideas into real products through code.
